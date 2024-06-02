@@ -1,7 +1,7 @@
 .promo {
     width: 100%;
     padding: 205px 0 340px;
-    background: url(../images/promo.png) 0 0 / 100% 100% no-repeat;
+    background: url(../images/promo.webp) 0 0 / 100% 100% no-repeat;
     background-size: cover;
     .wrapper {
         display: flex;
@@ -75,7 +75,7 @@
 .order {
     width: 100%;
     padding: 67px 0;
-    background: url(../images/bot.png) 0 0 / 100% 100% no-repeat;
+    background: url(../images/bot.webp) 0 0 / 100% 100% no-repeat;
     background-size: cover;
     .wrapper {
         display: flex;
@@ -109,7 +109,7 @@
             grid-template-columns: repeat(5, 209px);
             justify-content: space-between;
             margin-bottom: 80px;
-            background: url(../images/points.png) top 52px center / auto auto no-repeat;
+            background: url(../images/points.webp) top 52px center / auto auto no-repeat;
             span {
                 display: flex;
                 flex-direction: column;
@@ -441,7 +441,7 @@
 @media screen and (max-width: 1230px) {
     .promo {
         padding: 140px 0 120px;
-        background: url(../images/promo.png) 0 right 0 / 100% auto no-repeat;
+        background: url(../images/promo.webp) 0 right 0 / 100% auto no-repeat;
         .wrapper {
             gap: 30px;
             h1 {
@@ -519,7 +519,7 @@
 @media screen and (max-width: 768px) {
     .promo {
         padding: 120px 0 100px;
-        background: url(../images/promo.png) 0 right 0 / 100% 100% no-repeat;
+        background: url(../images/promo.webp) 0 right 0 / 100% 100% no-repeat;
         .wrapper {
             gap: 30px;
             h1 {
